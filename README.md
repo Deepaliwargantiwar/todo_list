@@ -81,6 +81,4 @@ Contributions are welcome! Please fork this repository and submit a pull request
 
 This project is licensed under the MIT License.
 
-## Acknowledgements
 
-- Thanks to [OpenAI](https://www.openai.com/) for their guidance and resources.
